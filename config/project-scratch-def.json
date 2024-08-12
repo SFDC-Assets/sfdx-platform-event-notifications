@@ -1,0 +1,14 @@
+{
+  "orgName": "platform-events-demo",
+  "edition": "Developer",
+  "hasSampleData": true,
+  "features": ["EnableSetPasswordInApi", "ChangeDataCapture", "DurableGenericStreamingAPI", "EmpPublishRateLimit:10000", "GenericStreaming", "GenStreamingEventsPerDay:50000", "MaxUserStreamingChannels:1000", "NumPlatformEvents:20", "PlatformEventsPerDay:50000", "StreamingAPI", "SubPerStreamingChannel:4000"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
