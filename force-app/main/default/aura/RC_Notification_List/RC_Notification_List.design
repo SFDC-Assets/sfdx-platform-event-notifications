@@ -1,4 +1,0 @@
-<design:component>
-	<design:attribute name="title" label="Title" />
-    <design:attribute name="notifications" label="Notifications (String Array)" />
-</design:component>
